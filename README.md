@@ -1,7 +1,7 @@
 
 # filerenamer
 
-This script will change the filename of files located in a directory as given by the user. 
+This script will modify and append a number to the filename of files located in a directory given by the user. 
 
 Run the script using 
 
